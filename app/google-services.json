@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "610170145477",
+    "firebase_url": "https://blog-92053.firebaseio.com",
+    "project_id": "blog-92053",
+    "storage_bucket": "blog-92053.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610170145477:android:a05143c323bbd0ba",
+        "android_client_info": {
+          "package_name": "com.example.android.blog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610170145477-vrtlu5u0bffl1o16shf4kvj22m9pn5m1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.blog",
+            "certificate_hash": "224764e346f1da1710a2e3d8389787f9f3714768"
+          }
+        },
+        {
+          "client_id": "610170145477-rouur89rukthb2tn09nphd04505batkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVGQkys0Epv-ISVXvEyivkitcatlaG_js"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610170145477-rouur89rukthb2tn09nphd04505batkv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610170145477:android:2715382ddb07b3f3",
+        "android_client_info": {
+          "package_name": "com.example.mosaab.googlemapsgoogleplaces"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610170145477-j7macmtkfiqtu2ma87sbn0dpmqkk1j7m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mosaab.googlemapsgoogleplaces",
+            "certificate_hash": "4eb2cd6e464ed14ca1aad3200f929f51c0dcfda1"
+          }
+        },
+        {
+          "client_id": "610170145477-rouur89rukthb2tn09nphd04505batkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVGQkys0Epv-ISVXvEyivkitcatlaG_js"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610170145477-rouur89rukthb2tn09nphd04505batkv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610170145477:android:90680891e1695b00",
+        "android_client_info": {
+          "package_name": "com.example.mosaab.pushnotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610170145477-pidhb6l6h3o3tuhq4rbej3f4t9qgfff4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mosaab.pushnotifications",
+            "certificate_hash": "4eb2cd6e464ed14ca1aad3200f929f51c0dcfda1"
+          }
+        },
+        {
+          "client_id": "610170145477-rouur89rukthb2tn09nphd04505batkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVGQkys0Epv-ISVXvEyivkitcatlaG_js"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610170145477-rouur89rukthb2tn09nphd04505batkv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
